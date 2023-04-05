@@ -12,7 +12,7 @@ export class Calc {
     
     agregarNumero(numero) {
         this.datos.push(numero);
-        console.log(this.datos);
+        
     }
 
     borrarTodo() {
